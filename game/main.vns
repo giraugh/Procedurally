@@ -1,0 +1,11 @@
+fn love.load() {
+
+}
+
+fn love.update() {
+
+}
+
+fn love.draw() {
+
+}
